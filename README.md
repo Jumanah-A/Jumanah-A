@@ -7,7 +7,6 @@ I'm Jumanah, a software engineering student at UCI. I have experience programmin
 
 
 ## GitHub Stats :trophy:
- [![Jumanah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jumanah-A)](https://github.com/Jumanah-A/github-readme-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jumanah-A)](https://github.com/Jumanah-A/github-readme-stats)
 
